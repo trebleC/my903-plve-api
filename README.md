@@ -15,6 +15,11 @@
 > 当前代码仅共学习，不可做商业用途
 
 
+### 使用文档
+
+使用 `apis` 详见 [文档](https://treblec.github.io/my903-plve-api/)
+
+
 ### 注意
 > `https://my903.com/903openbox`无法请求时，请设置代理
 
@@ -54,9 +59,6 @@ node app.js
 
 
 
-### 使用文档
-
-使用`apis`详见[文档](https://github.com/trebleC/my903-plve-api/#/)
 
 ### 关于项目
 
