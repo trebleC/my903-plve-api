@@ -24,7 +24,7 @@
 
 示例截图:
 
-![获取派台歌](https://github.com/trebleC/my903-plve-api/main/screenshot/songs.png)
+![获取派台歌](https://github.com/trebleC/my903-plve-api/blob/main/screenshot/songs.png)
 
 ### 获取903专业推介排行
 
@@ -42,4 +42,4 @@
 
 示例截图:
 
-![获取派台歌](https://github.com/trebleC/my903-plve-api/main/screenshot/rank.png)
+![获取派台歌](https://github.com/trebleC/my903-plve-api/blob/main/screenshot/rank.png)
